@@ -10,3 +10,8 @@
 
 ### Todays's Progress: Completed the Basic HTML AND HTML5 topics on FreeCodeCamp and started the Basic of CSS tutorials
 ### Thoughts: Its interesting doing this challenge as it keeps you on your toes not to miss a day.
+
+## Day 3: January 8, 2021
+
+### Todays's Progress: Completed the Basic of CSS tutorials
+### Thoughts: It was a very long bridge to climb as I started the section today and finished it today.
